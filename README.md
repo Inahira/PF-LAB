@@ -1,2 +1,4 @@
 # Uni_Source_Code
-C++ practice set
+
+Software Engineering (1st semester)
+Programming Fundamentals (C++ practice set)
